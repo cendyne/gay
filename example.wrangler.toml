@@ -1,0 +1,10 @@
+name = "gay"
+main = "src/index.ts"
+compatibility_date = "2022-06-05"
+account_id = ""
+
+route = "your-site.gay/*"
+
+[site]
+bucket = "./site"
+

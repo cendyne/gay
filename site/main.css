@@ -31,7 +31,7 @@ vertical-align: baseline;
   position: absolute;
   overflow: hidden;
   font-size: 60px;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Comic Neue", "Comic Sans MS", "Comic Sans", Verdana;
   text-align: center;
 }
 .text2 {

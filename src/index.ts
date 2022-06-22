@@ -28,6 +28,7 @@ function html(text: string): string {
 <html>
     <head>
         <title>${etext} is gay</title>
+        <link href="https://fonts.bunny.net/css?family=comic-neue:700" rel="stylesheet" />
         <link href="/main.css" rel="stylesheet" />
     </head>
     <body>

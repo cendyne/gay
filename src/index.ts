@@ -83,6 +83,7 @@ export default {
         name = '____';
       }
     }
+    name = decodeURIComponent(name);
     return new Response(html(name), {
       headers: new Headers([
         ["content-type", "text/html"]
